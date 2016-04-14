@@ -39,8 +39,8 @@
 - general purpose
 - natural languages
 - This is just a hobby
-- list are like go struct
-- functions being the first class
+- list is like go struct
+- function is the first class
 
 ```
   program = (statement)
@@ -64,9 +64,9 @@
 ```
 
 ## Versions
-This is the 3rd version of ox.
-The 1st version defined some valuable ideas.
-The 2nd version defined some basic operations.
-And now, in the 3rd version, I hope all things can be put together.
+- This is the 3rd version of ox.
+- The 1st version defined some valuable ideas.
+- The 2nd version defined some basic operations.
+- The 3rd version collects all things together.
 
 Have fun!
