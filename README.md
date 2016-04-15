@@ -35,12 +35,21 @@
 ## Basic ideas
 - consistency
 - open sourced
-- codes are data
 - general purpose
 - natural languages
 - This is just a hobby
 - list is like go struct
 - function is the first class
+
+- codes are data
+    - any function is a list
+    - any list can be a function
+- all functions are blackboxes
+    - functions do not change input data
+    - functions can have nonstatic inner state
+- each function is an indivisible guts
+    - functions are easily combined
+    - functions are all attached to data types
 
 ```
   program = (statement)
