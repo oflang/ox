@@ -44,7 +44,6 @@
 - This is just a hobby
 - list is like go struct
 - function is the first class
-
 - codes are data
     - any function is a list
     - any list can be a function
@@ -60,7 +59,8 @@
   statement = statement expression | nothing
   expression = (subject predicate) | atom
   subject = expression
-  predicate = action | predicate `|` action
+  predicate = action | predicate flowop action
+  flowop = atom 
   action = verb object
   verb = expression
   object = statement
