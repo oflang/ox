@@ -1,6 +1,6 @@
 # als=(1 2 3 4 5 6 7 8 9 100 101 102 103)
 
-(a_ls Length) # 13, get length
+(als Length) # 13, get length
 
 (als = (als LeftShift 3)) # als=(101 102 103 1 2 3 4 5 6 7 8 9 100)
 (als = (als RightShift 2)) # als=(103 1 2 3 4 5 6 7 8 9 100 101 102)
