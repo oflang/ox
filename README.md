@@ -42,7 +42,7 @@
 - general purpose
 - natural languages
 - This is just a hobby
-- list is like go struct
+- object oriented as `go` do
 - function is the first class
 - codes are data
     - any function is a list
@@ -72,14 +72,15 @@
     3. What Do You Need for Server-Based Software?
     4. What New Abstractions Are Left to Discover?
 
+    Paul Graham
     Five Questions about Language Design
     http://www.paulgraham.com/langdes.html
 ```
 
-## Versions
-- This is the 3rd version of ox.
-- The 1st version defined some valuable ideas.
-- The 2nd version defined some basic operations.
-- The 3rd version collects all things together.
+## Evolution
+- This is the 3rd generation.
+- The 1st generation defined some valuable ideas.
+- The 2nd generation defined some basic operations.
+- The 3rd generation tries to put all things together.
 
 Have fun!
