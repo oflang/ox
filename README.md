@@ -60,7 +60,7 @@
   expression = (subject predicate) | atom
   subject = expression
   predicate = action | predicate flowop action
-  flowop = atom 
+  flowop = atom
   action = verb object
   verb = expression
   object = statement
@@ -78,9 +78,9 @@
 ```
 
 ## Evolution
-- This is the 3rd generation.
-- The 1st generation defined some valuable ideas.
-- The 2nd generation defined some basic operations.
-- The 3rd generation tries to put all things together.
+- This is the 3rd tries.
+- The 1st try defines some valuable ideas.
+- The 2nd try defines some basic operations.
+- The 3rd try tries to put all things together.
 
 Have fun!
